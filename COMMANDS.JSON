@@ -1,0 +1,5 @@
+{
+  "secret": "YOUR_SECRET_KEY",
+  "123456789": ["kill", "fling", "msg:Hello from controller!"],
+  "987654321": ["freeze"]
+}
